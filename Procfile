@@ -1,1 +1,1 @@
-web: gunicorn FlaskApp:app
+web: gunicorn flask-application-rsp22:app
